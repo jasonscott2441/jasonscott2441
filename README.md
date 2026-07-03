@@ -22,7 +22,7 @@ Incident Response Planning and Execution	SOC Automation Lab
 Case Management with TheHive	SOC Automation Lab
 Scripting and Automation for Threat Mitigation	SOC Automation Lab
 Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 Network
 
@@ -40,6 +40,7 @@ SIEM
 
   [![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/azure/sentinel/)
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
+
 Certifications
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge)
