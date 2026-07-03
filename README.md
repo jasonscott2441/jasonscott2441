@@ -1,5 +1,5 @@
-Hello, I'm CHANGEME
-
+Hello, I'm Jason
+<a href="https://www.linkedin.com/in/jason-scott-6a6ba8148/"img src="https://img.shields.io/badge/ -LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
