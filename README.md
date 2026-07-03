@@ -2,14 +2,14 @@ Hello, I'm Jason
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-scott-6a6ba8148/)
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+I am a Comp Tia Security+ certificate holder with a profound interest in technology and a dedication to solving complex problems.
 
 Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+My exposure to cybersecurity through current and previous roles has made me eager to fully transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -32,7 +32,7 @@ SIEM
   
 Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge)
     
 Projects
 Detection Lab
