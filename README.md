@@ -12,16 +12,19 @@ Objective
 My exposure to cybersecurity through current and previous roles has made me eager to fully transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-Skill	Associated Project
-SIEM Implementation and Log Analysis	Detection Lab
-Network Traffic Monitoring and Attack Detection	Detection Lab
-Security Automation with Shuffle SOAR	SOC Automation Lab
-Incident Response Planning and Execution	SOC Automation Lab
-Case Management with TheHive	SOC Automation Lab
-Scripting and Automation for Threat Mitigation	SOC Automation Lab
-Tools
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/jasonscott2441/Detection-Lab">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
+
 
 
 Network
