@@ -48,8 +48,3 @@ Certifications
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge)
     
-Projects
-Detection Lab
-SOC Automation Project
-- ⚡ Fun fact: ...
--->
