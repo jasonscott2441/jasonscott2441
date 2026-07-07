@@ -17,7 +17,7 @@ Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Traffic Monitoring And Attack Detection | <a href="https://github.com/jasonscott2441/Detection-Lab">Detection Lab</a>|
-| SIEM Implementation And Log Analysis | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation And Log Analysis | <a href="https://github.com/jasonscott2441/Retail-Breach/blob/main/README.md">Retail Breach Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
