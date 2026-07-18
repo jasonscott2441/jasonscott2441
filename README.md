@@ -26,19 +26,19 @@ Skills
 
 
 
-Network
+Network Tools Used
 
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)](https://suricata.io/)
 [![Zeek](https://img.shields.io/badge/Zeek-1F6FEB?style=for-the-badge)](https://zeek.org/)
 
-Endpoint
+Endpoint (EDR) Tools Used
 
 [![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint)
 [![VMware Carbon Black](https://img.shields.io/badge/VMware_Carbon_Black-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/security/carbon-black.html)
 [![Velociraptor](https://img.shields.io/badge/Velociraptor-2E8B57?style=for-the-badge)](https://docs.velociraptor.app/)
 
-SIEM
+SIEM Tools Used
 
   [![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/azure/sentinel/)
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
